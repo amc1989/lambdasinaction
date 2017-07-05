@@ -20,9 +20,7 @@ public class test {
         person1.setAge(2);
 
 
-
-
-
+        System.out.println("aaaaaaaaaaaaaaa");
         list.add(person);
         list.add(person1);
 
